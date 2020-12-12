@@ -31,11 +31,11 @@ Activate Anti-spam protection in your BM by this command :
 
 Made from the source code of [PeeyushDeveloper](t.me/P_4_PEEYUSH)
 
-Special thanks to [this person](t.me/denver02) for helping me.
+Special thanks to [this person](t.me/LEGENDMODS_cowner) for helping me.
 
 Deploy a bot like me [now](www.github.com/jarvisbotsavage/groupmanaging)
 
-Watch [video tutorial](https://www.youtube.com/watch?v=gXXFpTAk6Vo&feature=youtu.be) on deploying me.
+Watch [UPDATED SOON TUTORIAL](https://www.youtube.com/watch?v=gXXFp) on deploying me.
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
