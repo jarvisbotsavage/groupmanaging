@@ -33,15 +33,14 @@ Activate Anti-spam protection in your BM by this command :
 
 Made from the source code of [PeeyushDeveloper](t.me/P_4_PEEYUSH)
 
-Special thanks to [this person](t.me/LEGENDMODS_cowner) for helping me.
+Maded For only SnApps Chat group
 
 Deploy a bot like me [now](www.github.com/jarvisbotsavage/groupmanaging)
 
-Watch [UPDATED SOON TUTORIAL](https://www.youtube.com/watch?v=gXXFp) on deploying me.
+SnApps
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
- Add me to a group by clicking [here](http://t.me/Peeyushop_bot?startgroup=true).
 """
 
 
